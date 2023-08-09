@@ -1,15 +1,13 @@
-### Maximous Black
+### Yogi Fitriadi Rakhim
 
-> /'mak.si.mus blak/
+> /'yo.gi fit.ri.a.di 'ra.khim/
 
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
-student and I also love Physics, and want to learn more about how the Universe works.
+I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I am a recent graduate with a major in Engineering Physics. My current pursuits involve exploring the intricacies of the universe's workings while also delving into the realms of web development.
 
-[`🏠 maximousblk.me`](https://maximousblk.me/)
-[`📫 maximousblk@gmail.com`](mailto:maximousblk@gmail.com)
-[`🐦 @maximousblk`](https://twitter.com/maximousblk)
-[`🤓 EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
+[`📫 yogiffrr@gmail.com`](mailto:yogiffrr@gmail.com)
+[`💼 yogiifr`](https://www.linkedin.com/in/yogiifr/)
 
+<!--
 ### 👷 Check out what I'm currently working on
 
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
@@ -63,3 +61,4 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
 - [Brute-forcing websites with Callow](https://maximousblk.me/posts/brute-forcing-websites-with-callow)
 - [Hello World](https://maximousblk.me/posts/hello-world)
+-->
